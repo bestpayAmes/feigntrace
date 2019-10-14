@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: ames
+Build-Jdk: 1.8.0_171
+Agent-Class: com.qihoo.finance.msf.Main
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Implementation-Title: FeignGraph
+Implementation-Version: 1.0-SNAPSHOT
+Premain-Class: com.qihoo.finance.msf.Main
+Specification-Title: FeignGraph
+Specification-Version: 1.0-SNAPSHOT
+
